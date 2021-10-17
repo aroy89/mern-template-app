@@ -1,0 +1,6 @@
+{
+    "name" : "My App - Production",
+    "machine" : {
+        "host" :   "prod-server"
+    }
+}
